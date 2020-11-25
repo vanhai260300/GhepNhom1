@@ -135,7 +135,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center_horizontal"
                             android:layout_marginTop="100dp"
-                            android:text="Discovery"
+                            android:text="Khám phá"
                             android:textColor="#D8000000" />
                     </androidx.cardview.widget.CardView>
 
@@ -158,7 +158,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center_horizontal"
                             android:layout_marginTop="100dp"
-                            android:text="Delivery"
+                            android:text="Giao hàng"
                             android:textColor="#D8000000" />
                     </androidx.cardview.widget.CardView>
 
@@ -181,7 +181,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center_horizontal"
                             android:layout_marginTop="100dp"
-                            android:text="Reservation"
+                            android:text="Đặt chỗ"
                             android:textColor="#D8000000" />
                     </androidx.cardview.widget.CardView>
                 </LinearLayout>
